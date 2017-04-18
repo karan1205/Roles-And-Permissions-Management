@@ -6,6 +6,8 @@
 -- Generation Time: Apr 18, 2017 at 03:50 PM
 -- Server version: 5.6.26
 -- PHP Version: 5.6.12
+create database rolesmgmt;
+use rolesmgmt;
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
