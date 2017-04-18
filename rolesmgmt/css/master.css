@@ -1,0 +1,113 @@
+body{
+  font-family: Roboto;
+}
+
+/*index page*/
+#index{
+  top:50%;
+  left:50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  text-align: center;
+}
+
+/*login page*/
+#login{
+  top:50%;
+  left:50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  text-align: center;
+}
+
+/*Register page*/
+#register{
+  top:50%;
+  left:50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  text-align: center;
+}
+
+/*admin page*/
+#admin{
+  text-align: center;
+
+}
+
+#admin table, #admin th, #admin td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+#admin th, #admin td {
+  padding: 5px;
+  text-align: center;
+}
+
+#admin table{
+  width:100%;
+  background-color: #ffffb3;
+  display: none;
+}
+
+/*profile page*/
+#profile{
+  text-align: center;
+}
+
+#profile table, #profile th, #profile td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+#profile th, #profile td, #profile tr{
+  padding: 5px;
+  text-align: center;
+}
+#profile table{
+  width:100%;
+  background-color: #ffffb3;
+}
+
+
+/*user page*/
+#user{
+  text-align:center;
+}
+
+#user table, #user th, #user td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+#user th, #user td {
+  padding: 5px;
+  text-align: center;
+}
+
+#user table{
+  width:100%;
+  background-color: #ffffb3;
+  display: none;
+}
+
+/*manager page*/
+#manager{
+  text-align:center;
+}
+
+#manager table, #manager th, #manager td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+#manager th, #manager td {
+  padding: 5px;
+  text-align: center;
+}
+
+#manager table{
+  width:100%;
+  background-color: #ffffb3;
+  display: none;
+}

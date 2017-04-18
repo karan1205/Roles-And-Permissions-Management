@@ -1,0 +1,49 @@
+Roles and Permission Management
+
+Languages Used - HTML, CSS, Bootstrap, jQuery, PHP
+Database Used - MySQL
+
+Files:
+
+1) master.css - Main Stylesheet (path - css/masster.css)
+
+2) script.js - Javascript File (path - js/script.js)
+
+3) index.php - Main File (Home Page)
+
+4) login.php - User/Admin/Manager Login Page
+
+5) register.php - User/Admin/Manager Registration Page
+
+6) admin.php - Admin Dashboard
+
+7) manager.php - Manager Dashboard
+
+8) user.php - User Dashboard
+
+9) profile.php - User/Admin/Manager Profile Page
+
+10) editprofile.php - code for editing profile
+
+11) createuser.php - code for creating User/Admin/Manager
+
+12) delete.php -  code for deleting User/Admin/Manager
+
+13) message.php - code for posting message
+
+14) msgdelete.php - code for deleting message
+
+15) logout.php - code for destroying session (logout)
+
+16) connect.php - File to connect database
+
+17) Documentation.txt - Details about all files
+
+18)rolesmgmt.sql - Database
+
+
+Database Name - rolesmgmt
+
+Tables:
+  (i) login - stores id, username, password, roles, fullname
+  (ii) message - stores msgid, msg
